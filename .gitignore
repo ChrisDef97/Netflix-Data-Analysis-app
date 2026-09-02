@@ -1,0 +1,11 @@
+# entornos y cache de Python
+__pycache__/
+*.pyc
+
+# artefactos de PyInstaller
+build/
+dist/
+*.spec
+
+# datos personales - NO subir
+*.csv
